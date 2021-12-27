@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "cy:open-GitHub-desktop": "cypress open --browser chrome --config integrationFolder=cypress/integration,viewportWidth=1920,viewportHeight=1080"
+  }
+}

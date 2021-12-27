@@ -1,0 +1,13 @@
+{
+  "integrationFolder": "cypress/integration",
+  "chromeWebSecurity": false,
+  "fixturesFolder": "cypress/fixtures",
+  "pluginsFile": "cypress/plugins",
+  "screenshotsFolder": "cypress/screenshots",
+  "videosFolder": "cypress/videos",
+  "supportFile": "cypress/support/index.js",
+  "baseUrl": "https://github.com/",
+  "defaultCommandTimeout":10000,
+  "experimentalStudio": true,
+  "retries": 2
+}
