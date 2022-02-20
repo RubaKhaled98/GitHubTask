@@ -6,7 +6,7 @@
   "screenshotsFolder": "cypress/screenshots",
   "videosFolder": "cypress/videos",
   "supportFile": "cypress/support/index.js",
-  "baseUrl": "https://github.com/",
+  "baseUrl": "https://almosafer.com/",
   "defaultCommandTimeout":10000,
   "experimentalStudio": true,
   "retries": 2
