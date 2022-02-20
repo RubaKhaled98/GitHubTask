@@ -1,5 +1,11 @@
 {
   "scripts": {
     "cy:open-SEERA-desktop": "cypress open --browser chrome --config integrationFolder=cypress/integration,viewportWidth=1920,viewportHeight=1080"
+  },
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
   }
 }
