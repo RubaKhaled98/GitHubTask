@@ -12,5 +12,5 @@ ___
 - Cypress functional test files can be found in `/cypress/integration`
 - Cypress supporting page classes can be found in `/cypress/src`
 - Cypress plug-in files can be found in `/cypress/plugins`
-- Default base URL is `https://github.com/`
+- Default base URL is `https://www.almosafer.com/`
 - Cypress functional tests configuration file can be found in `/cypress.json`
