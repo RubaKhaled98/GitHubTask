@@ -5,7 +5,7 @@
     npm install cypress --save-dev
 ___
 ## In order to run the cypress tests, please choose the command that fits your needs:
-- `npm run cy:open-GitHub-desktop`: run desktop functional tests
+- `npm run cy:open-SEERA-desktop`: run desktop functional tests
 ___
 # Notes - Cypress
 - **Do not run multiple instances at the same time!**
