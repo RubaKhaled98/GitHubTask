@@ -3,7 +3,8 @@
     "cy:open-SEERA-desktop": "cypress open --browser chrome --config integrationFolder=cypress/integration,viewportWidth=1920,viewportHeight=1080"
   },
   "devDependencies": {
-    "cypress": "^9.5.0"
+    "cypress": "^9.5.0",
+    "cypress-wait-until": "^1.7.2"
   },
   "dependencies": {
     "moment": "^2.29.1"
